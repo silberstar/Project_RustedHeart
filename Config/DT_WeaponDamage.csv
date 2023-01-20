@@ -1,0 +1,13 @@
+,Type,Attack,CriticalCount,CriticalMinRate,CriticalMaxRate
+1_0,Fist,5,10,0.1,0.2
+1_1,Fist,10,0,0,0
+1_2,Fist,15,0,0,0
+2_0,OneHandedSword,5,10,0.1,0.2
+2_1,OneHandedSword,15,0,0,0
+2_2,OneHandedSword,20,0,0,0
+3_0,TwoHandedSword,5,10,0.1,0.2
+3_1,TwoHandedSword,15,0,0,0
+3_2,TwoHandedSword,20,0,0,0
+3_3,TwoHandedSword,20,0,0,0
+4_0,FireBall,30,10,0.1,0.2
+5_0,LightningBolt,50,10,0.1,0.2
